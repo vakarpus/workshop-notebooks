@@ -12,3 +12,5 @@ Students can get free Azure credits to explore these resources here:
 * [Azure Free Account](https://azure.microsoft.com/en-us/free/?WT.mc_id=workshop-github-vakarpus)
 
 Your feedback is appreciated - please fork this repo and contribute!
+
+To report any issues, please [log a GitHub issue](Issues). Include the content section, module number and title, along with any error messages and screenshots.
