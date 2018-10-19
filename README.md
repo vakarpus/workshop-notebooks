@@ -1,4 +1,4 @@
-# workshop-notebooks
+# Azure For Students Workshop
 Demonstration of Microsoft Azure ML/AI capabilities - Azure Notebooks, Cognitive Services, Azure ML
 
 *The content and code on this repo is intended for Microsoft ML/AI workshop under the [MIT license](LICENSE). Please check back regularly for updated versions.*
@@ -13,4 +13,4 @@ Students can get free Azure credits to explore these resources here:
 
 Your feedback is appreciated - please fork this repo and contribute!
 
-To report any issues, please [log a GitHub issue](Issues). Include the content section, module number and title, along with any error messages and screenshots.
+To report any issues, please [log a GitHub issue](https://github.com/vakarpus/workshop-notebooks/issues). Include the content section, module number and title, along with any error messages and screenshots.
