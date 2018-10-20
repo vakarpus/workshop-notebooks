@@ -14,3 +14,7 @@ Students can get free Azure credits to explore these resources here:
 Your feedback is appreciated - please fork this repo and contribute!
 
 To report any issues, please [log a GitHub issue](https://github.com/vakarpus/workshop-notebooks/issues). Include the content section, module number and title, along with any error messages and screenshots.
+
+## Running code on Azure Notebooks
+
+Click the following link to open Azure Notebooks: [https://notebooks.azure.com/Vadi/libraries/Workshop]
