@@ -46,6 +46,8 @@ To report any issues, please [log a GitHub issue](https://github.com/vakarpus/wo
 
 ### Extra credit
 13. Modify the code above to upload local file "vadim.png" to the Computer Vision Cognitive Services instead of just providing URL of the image.
+14. Clone git repository to your local machine using "git clone git@github.com:vakarpus/workshop-notebooks.git" and try running local python script handwriting.py (modify subscription key in *key.py* beforehand).
+15. Experiment with other Microsoft Cognitive Services.
  
 ## Azure Cloud Overview
 The Azure cloud is huge (so that’s why they call it the cloud!) and the vast service catalog may appear daunting at first. It doesn’t have to be!
