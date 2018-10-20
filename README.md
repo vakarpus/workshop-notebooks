@@ -15,6 +15,29 @@ Your feedback is appreciated - please fork this repo and contribute!
 
 To report any issues, please [log a GitHub issue](https://github.com/vakarpus/workshop-notebooks/issues). Include the content section, module number and title, along with any error messages and screenshots.
 
+## Instructions
+### Free Azure Student Account and Computer Vision Cognitive Service
+1. Create free account using links above
+2. Visit [Microsoft Cognitive Services](https://azure.microsoft.com/services/cognitive-services/?WT.mc_id=workshop-github-vakarpus) webpage to learn about Cognitive Services functionality.
+3. Try different demos on [Computer Vision](https://azure.microsoft.com/services/cognitive-services/directory/vision/?WT.mc_id=workshop-github-vakarpus) page of Cognitive Services.
+4. Press "Try for free" under Computer Vision section and choose "Guest" - 7-day trial or "Exis*i*ting Azure account" and log in into your free Student account created previously.
+    * If you selected "Guest" - 7-day trial: Sign-in using Microsoft, Facebook, LinkedIn, or Github account to proceed.
+    * If you used Student Azure account: 
+        * Search for "Computer Vision" using search bar at the top of the page, 
+        * select "Marketplace: Computer Vision" and proceed to creating Computer Vision service instance
+        * Specify unique name for the service (e.g. "CompVision1234")
+        * Use "Azure for Students" Subscription
+        * Location - "West Central US"
+        * Pricing tier - use free F0 (20 Calls per minuter, 5k Calls per month) or if you plan to use the service more agressively - switch to S1 Standard tier (10 Calls per second, $1.00 per 1k Calls - remember you have a budget of $100 on your free Student Azure account)
+        * Create a new Resource group
+        * Press "Create"
+        * Wait for notification "Deployment succeeded" to show up or check Bell icon at the top of the Azure Portal page
+        * Click "Go to resource" button
+5. Write down API call endpoint (e.g. https://westcentralus.api.cognitive.microsoft.com/) and 32-symbol key. You will need only Key 1.
+
+### Running code on Azure Notebooks
+6. Click the following link to open Azure Notebooks: [https://notebooks.azure.com/Vadi/libraries/Workshop]
+
 ## Azure Cloud Overview
 The Azure cloud is huge (so that’s why they call it the cloud!) and the vast service catalog may appear daunting at first. It doesn’t have to be!
 
@@ -26,8 +49,3 @@ The Azure cloud is huge (so that’s why they call it the cloud!) and the vast s
 - Diagnose problems and apply automated machine learning analysis with [Application Insights](https://docs.microsoft.com/azure/application-insights/app-insights-overview/?WT.mc_id=workshop-github-vakarpus) 
 - Connect your apps with messaging services, load files into [cloud storage](https://azure.microsoft.com/free/storage/?WT.mc_id=workshop-github-vakarpus) and discover managed databases for [SQL](https://azure.microsoft.com/free/sql-database/search/?WT.mc_id=workshop-github-vakarpus) and [NoSQL](https://azure.microsoft.com/free/cosmos-db/search/?WT.mc_id=workshop-github-vakarpus) scenarios
 - Tie everything together in a continuous delivery pipeline with [Azure DevOps](https://azure.microsoft.com/services/devops/?WT.mc_id=workshop-github-vakarpus) projects
-
-
-## Running code on Azure Notebooks
-
-Click the following link to open Azure Notebooks: [https://notebooks.azure.com/Vadi/libraries/Workshop]
