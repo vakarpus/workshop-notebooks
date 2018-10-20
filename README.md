@@ -49,7 +49,17 @@ To report any issues, please [log a GitHub issue](https://github.com/vakarpus/wo
 14. Clone git repository to your local machine using "git clone git@github.com:vakarpus/workshop-notebooks.git" and try running local python script handwriting.py (modify subscription key in *key.py* beforehand).
 15. Experiment with other Microsoft Cognitive Services.
  
+
+## Demos from Azure workshop
 Do you want to run more notebooks and Cognitive Services? Check [this](https://notebooks.azure.com/shana/libraries/demos) out! (Thank you, Shana Matthews!!!)
+
+https://notebooks.azure.com/shana/libraries/demos
+- [Text analytics - alpacas on reddit](https://notebooks.azure.com/shana/libraries/demos/html/cogservices_textanalytics.ipynb)
+- [Speech to text/translation](https://notebooks.azure.com/shana/libraries/demos/html/cogservices_translate.ipynb)
+- [Vision - coral reefs & scuba divers](https://notebooks.azure.com/shana/libraries/demos/html/cogservices_vision.ipynb)
+
+(sorry, the speech to text one doesn't work on azure notebooks, but you can download the .ipynb and run it locally on Jupyter 😃)
+
 
 ## Azure Cloud Overview
 The Azure cloud is huge (so that’s why they call it the cloud!) and the vast service catalog may appear daunting at first. It doesn’t have to be!
