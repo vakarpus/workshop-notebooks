@@ -36,15 +36,16 @@ To report any issues, please [log a GitHub issue](https://github.com/vakarpus/wo
 5. Leave this page open for the reference. We will need API call endpoint (e.g. https://westcentralus.api.cognitive.microsoft.com/) and 32-symbol key. You will need only Key 1.
 
 ### Running code on Azure Notebooks
-6. Click the following link to open [Azure Notebooks](https://notebooks.azure.com/Vadi/libraries/Workshop/?WT.mc_id=workshop-github-vakarpus) and log in usign Free Student Azure account you've created earlier. Click on [Azure Notebooks](https://notebooks.azure.com/Vadi/libraries/Workshop/?WT.mc_id=workshop-github-vakarpus) again if you were navigated away from the workshop files.
-7. To run Python code in the Azure Jupyter Notebook click on "handwriting.ipynb" file at the top of the page.
-8. Change *subscription_key* and *uri_base* to use from instruction 5 in the first code cell
-9. To execute the code select cells one by one and run them by pressing *CTRL+Enter*. Or run all cells in order by going into the menu *Kernel / Restart Kernel and Run All Cells...*
-10. Wait for code to execute
-11. If the result of running last code cell shows *"status": "Running"* - rerun the last code cell by clicking on it (selecting it) and pressing *CTRL+Enter*. This will resubmit GET request to Computer Vision REST API service and you will see the result of handwriten text recognition.
+6. Click the following link to open [Azure Notebooks](https://notebooks.azure.com/Vadi/libraries/Workshop/?WT.mc_id=workshop-github-vakarpus) and log in usign Free Student Azure account you've created earlier. Click on [Azure Notebooks](https://notebooks.azure.com/Vadi/libraries/Workshop/?WT.mc_id=workshop-github-vakarpus) again if you were navigated away from the workshop files. 
+7. Click "Clone" on top of the files to copy them into your own Notebook library.
+8. To run Python code in the Azure Jupyter Notebook click on "handwriting.ipynb" file at the top of the page.
+9. Change *subscription_key* and *uri_base* to use from instruction 5 in the first code cell
+10. To execute the code select cells one by one and run them by pressing *CTRL+Enter*. Or run all cells in order by going into the menu *Kernel / Restart Kernel and Run All Cells...*
+11. Wait for code to execute
+12. If the result of running last code cell shows *"status": "Running"* - rerun the last code cell by clicking on it (selecting it) and pressing *CTRL+Enter*. This will resubmit GET request to Computer Vision REST API service and you will see the result of handwriten text recognition.
 
 ### Extra credit
-12. Modify the code above to upload local file "vadim.png" to the Computer Vision Cognitive Services instead of just providing URL of the image.
+13. Modify the code above to upload local file "vadim.png" to the Computer Vision Cognitive Services instead of just providing URL of the image.
  
 ## Azure Cloud Overview
 The Azure cloud is huge (so that’s why they call it the cloud!) and the vast service catalog may appear daunting at first. It doesn’t have to be!
