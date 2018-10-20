@@ -49,6 +49,8 @@ To report any issues, please [log a GitHub issue](https://github.com/vakarpus/wo
 14. Clone git repository to your local machine using "git clone git@github.com:vakarpus/workshop-notebooks.git" and try running local python script handwriting.py (modify subscription key in *key.py* beforehand).
 15. Experiment with other Microsoft Cognitive Services.
  
+Do you want to run more notebooks and Cognitive Services? Check [this](https://notebooks.azure.com/shana/libraries/demos) out! (Thank you, Shana Matthews!!!)
+
 ## Azure Cloud Overview
 The Azure cloud is huge (so that’s why they call it the cloud!) and the vast service catalog may appear daunting at first. It doesn’t have to be!
 
@@ -60,3 +62,14 @@ The Azure cloud is huge (so that’s why they call it the cloud!) and the vast s
 - Diagnose problems and apply automated machine learning analysis with [Application Insights](https://docs.microsoft.com/azure/application-insights/app-insights-overview/?WT.mc_id=workshop-github-vakarpus) 
 - Connect your apps with messaging services, load files into [cloud storage](https://azure.microsoft.com/free/storage/?WT.mc_id=workshop-github-vakarpus) and discover managed databases for [SQL](https://azure.microsoft.com/free/sql-database/search/?WT.mc_id=workshop-github-vakarpus) and [NoSQL](https://azure.microsoft.com/free/cosmos-db/search/?WT.mc_id=workshop-github-vakarpus) scenarios
 - Tie everything together in a continuous delivery pipeline with [Azure DevOps](https://azure.microsoft.com/services/devops/?WT.mc_id=workshop-github-vakarpus) projects
+
+## More Azure Resources
+
+- If you want to build website with *sentiment analysis* of user comments using Text Analytics from Cognitive Services - check this tutorial out -  [Deploying a Cognitive Services Web Site to Azure via GitHub](https://github.com/Microsoft/computerscience/blob/master/Labs/Web%20Development/Azure%20Web%20Apps%20and%20GitHub/Deploying%20a%20Cognitive%20Services%20Web%20Site%20to%20Azure%20via%20GitHub.md)
+- Check out [Microsoft Learn](https://docs.microsoft.com/en-us/learn/?WT.mc_id=workshop-github-vakarpus) Educational Platform, specifically:
+    - [Introduction to Azure](https://docs.microsoft.com/en-us/learn/modules/welcome-to-azure/index?WT.mc_id=workshop-github-vakarpus)
+    - [Process images with the Computer Vision service](https://docs.microsoft.com/en-us/learn/modules/create-computer-vision-service-to-classify-images/index?WT.mc_id=workshop-github-vakarpus)
+    - [Classify images with the Microsoft Custom Vision Service](https://docs.microsoft.com/en-us/learn/modules/classify-images-with-custom-vision-service/index?WT.mc_id=workshop-github-vakarpus)
+    - [Create neural networks with TensorFlow on the Azure Data Science Virtual Machine](https://docs.microsoft.com/en-us/learn/modules/create-neural-network-with-dsvm/index?WT.mc_id=workshop-github-vakarpus)
+- [IoT DevKit](https://microsoft.github.io/azure-iot-developer-kit/?WT.mc_id=workshop-github-vakarpus) 
+    - [Use IoT DevKit AZ3166 with Azure Functions and Cognitive Services to make a language translator](https://github.com/Microsoft/vscode-iot-workbench/blob/master/docs/iot-devkit/devkit-translator.md)
